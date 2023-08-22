@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://explorationoverloadvibes.medium.com/](https://explorationoverloadvibes.medium.com/)
 
-- 💬 Ask me about **Python** , **C** , **DataScience**
+- 💬 Ask me about **Python** **,** **C** **,** **DataScience**
 
 - 📫 How to reach me **ashishkoli483@gmail.com**
 
