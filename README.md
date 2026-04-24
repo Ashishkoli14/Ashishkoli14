@@ -1,52 +1,108 @@
-<h2 align="left">Hello, fellow coders! 👋<br><br>I'm Ashish Koli, a passionate programmer hailing from the vibrant city of Navi Mumbai. Welcome to my GitHub repository 🚀, where I'm on an exciting journey of continuous learning and coding adventures📚.</h2>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkoli14&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkoli14" /> </p>
-
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📝 I regularly write articles on [https://explorationoverloadvibes.medium.com/](https://explorationoverloadvibes.medium.com/)
-
-- 💻 This is my Portfolio website [https://ashishkoli14.github.io/Portfolio.github.io/](https://ashishkoli14.github.io/Portfolio.github.io/)
-
-- 💬 Ask me about **Python** **,** **C** **,** **DataScience**
-
-- 📫 How to reach me **ashishkoli483@gmail.com**
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ashishkoli14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ashishkoli14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashish-m-koli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-koli-a2y4u8s6h5/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashishkoli483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ashishkoli483" height="30" width="40" /></a>
-<a href="https://instagram.com/ashish_koli1407/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashish_koli1407/" height="30" width="40" /></a>
-<a href="https://medium.com/@explorationoverloadvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@explorationoverloadvibes" height="30" width="40" /></a>
-</p>
-
-###
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishkoli14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishkoli14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkoli14&theme=vue-dark&hide_border=false" alt="ashishkoli14" />
+
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8922A&height=140&section=header&text=Ashish%20Manoj%20Koli&fontSize=38&fontColor=F0EDE6&fontAlignY=55&desc=IT%20Officer%20%C2%B7%20Data%20Professional%20%C2%B7%20Builder&descAlignY=78&descSize=15&descColor=C8922A" width="100%"/>
+
 </div>
 
-###
+<br/>
 
-###
+<div align="center">
+
+**IT Officer @ HDFC Bank &nbsp;·&nbsp; IIT Madras Data Science &nbsp;·&nbsp; Navi Mumbai, India**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-060F1C?style=for-the-badge&logo=firefox&logoColor=C8922A)](https://ashishkoli14.github.io/Portfolio.github.io/)
+[![Email](https://img.shields.io/badge/Email-060F1C?style=for-the-badge&logo=gmail&logoColor=C8922A)](mailto:currikit.edu@gmail.com)
+[![Instagram](https://img.shields.io/badge/@Currikit-060F1C?style=for-the-badge&logo=instagram&logoColor=C8922A)](https://www.instagram.com/Currikit)
+
+</div>
+
+---
+
+## About Me
+
+```python
+ashish = {
+    "role"      : "IT Officer — HDFC Bank, Airoli, Navi Mumbai",
+    "education" : ["IIT Madras — Diploma in Data Science & Programming",
+                   "Vishwaniketan Institute of Management Engineering & Technology"],
+    "focus"     : ["Data Analytics", "Business Analysis", "Web Development"],
+    "building"  : "santoshmarineengineering.com · Currikit · this profile",
+    "status"    : "Open to new opportunities in Mumbai"
+}
+```
+
+---
+
+## Tech Stack
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-060F1C?style=flat-square&logo=html5&logoColor=C8922A)
+![CSS3](https://img.shields.io/badge/CSS3-060F1C?style=flat-square&logo=css3&logoColor=C8922A)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-060F1C?style=flat-square&logo=javascript&logoColor=C8922A)
+![React](https://img.shields.io/badge/React-060F1C?style=flat-square&logo=react&logoColor=C8922A)
+![Next.js](https://img.shields.io/badge/Next.js-060F1C?style=flat-square&logo=nextdotjs&logoColor=C8922A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-060F1C?style=flat-square&logo=tailwindcss&logoColor=C8922A)
+![Flask](https://img.shields.io/badge/Flask-060F1C?style=flat-square&logo=flask&logoColor=C8922A)
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-060F1C?style=flat-square&logo=python&logoColor=C8922A)
+![SQL](https://img.shields.io/badge/SQL-060F1C?style=flat-square&logo=postgresql&logoColor=C8922A)
+![Pandas](https://img.shields.io/badge/Pandas-060F1C?style=flat-square&logo=pandas&logoColor=C8922A)
+![NumPy](https://img.shields.io/badge/NumPy-060F1C?style=flat-square&logo=numpy&logoColor=C8922A)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-060F1C?style=flat-square&logo=scikitlearn&logoColor=C8922A)
+![PyTorch](https://img.shields.io/badge/PyTorch-060F1C?style=flat-square&logo=pytorch&logoColor=C8922A)
+![Power BI](https://img.shields.io/badge/Power_BI-060F1C?style=flat-square&logo=powerbi&logoColor=C8922A)
+![Tableau](https://img.shields.io/badge/Tableau-060F1C?style=flat-square&logo=tableau&logoColor=C8922A)
+
+**Deployment & Infra**
+
+![Netlify](https://img.shields.io/badge/Netlify-060F1C?style=flat-square&logo=netlify&logoColor=C8922A)
+![Vercel](https://img.shields.io/badge/Vercel-060F1C?style=flat-square&logo=vercel&logoColor=C8922A)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-060F1C?style=flat-square&logo=github&logoColor=C8922A)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-060F1C?style=flat-square&logo=cloudflare&logoColor=C8922A)
+![Git](https://img.shields.io/badge/Git-060F1C?style=flat-square&logo=git&logoColor=C8922A)
+
+---
+
+## Selected Projects
+
+| Project | What it is | Stack | Status |
+|---------|-----------|-------|--------|
+| [**santoshmarineengineering.com**](https://www.santoshmarineengineering.com) | Full production website for marine engineering consultancy | HTML · CSS · JS · EmailJS · GA4 · Cloudflare | 🟢 Live |
+| **Currikit** | Academic services platform serving students & institutes across India | Web + Operations | 🟢 Active |
+| **CNN on MNIST + Tiny-ImageNet** | Deep learning image classifier — IIT Madras academic project | Python · PyTorch · CNN | ✅ Done |
+| **Smart Alert Framework** | Automated alerting system built on real banking data patterns | Python · SQL · Pandas | ✅ Done |
+| **Power BI Dashboards** | Business intelligence dashboards for SMB clients | Power BI · Excel · SQL | ✅ Done |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashishkoli14&show_icons=true&theme=transparent&title_color=C8922A&icon_color=C8922A&text_color=F0EDE6&border_color=C8922A&hide_border=false&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkoli14&layout=compact&theme=transparent&title_color=C8922A&text_color=F0EDE6&border_color=C8922A&hide_border=false" height="160"/>
+
+</div>
+
+---
+
+## What I Can Build For You
+
+> **Web Development** — Static or multi-page sites, custom domain, Cloudflare SSL, EmailJS forms, GA4 analytics. Starting from ₹5,000.
+>
+> **Data Analysis & Reporting** — Python/SQL analysis, Power BI dashboards, automated reporting, business insights. Starting from ₹3,000.
+>
+> **Free consultation** — [Reach out →](mailto:currikit.edu@gmail.com)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8922A&height=100&section=footer" width="100%"/>
+
+</div>
