@@ -94,7 +94,7 @@ I build things that go live and solve real problems:
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [santoshmarineengineering.com](https://www.santoshmarineengineering.com)
+### 🌐 [santoshmarineengineering.com](santoshmarineengineering.netlify.app)
 > **Freelance · Live in Production**
 
 Full production website for a marine engineering consultancy. Custom domain, Cloudflare SSL, EmailJS contact form, GA4 analytics, SEO optimised.
