@@ -41,30 +41,78 @@ My goal: transition into a **Data Analyst / Business Analyst** role where I can 
 
 ## 🛠️ Tech Stack
 
-**Data & Analysis**
+**AI & Automation Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python">
-  <img src="https://img.shields.io/badge/Power_BI-1F2937?style=for-the-badge&logo=powerbi&logoColor=8B5CF6" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=22D3EE" alt="Tableau">
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=F9FAFB&labelColor=111827" alt="Claude">
+  <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=F9FAFB&labelColor=111827" alt="Claude Code">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Codex-F9FAFB?style=for-the-badge" alt="Codex">
+  <img src="https://img.shields.io/badge/-Cursor-F9FAFB?style=for-the-badge&logo=cursor&logoColor=F9FAFB&labelColor=111827" alt="Cursor">
+  <img src="https://img.shields.io/badge/AI_Agent_Workflows-8B5CF6?style=for-the-badge" alt="AI Agent Workflows">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0891B2?style=for-the-badge" alt="Prompt Engineering">
 </p>
 
 **Web Development**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=8B5CF6" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=8B5CF6" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=F9FAFB&labelColor=111827" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-663399?style=for-the-badge&logo=css&logoColor=F9FAFB&labelColor=111827" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F9FAFB&labelColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=F9FAFB&labelColor=111827" alt="React 18">
+  <img src="https://img.shields.io/badge/-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=F9FAFB&labelColor=111827" alt="JSX">
+  <img src="https://img.shields.io/badge/-Next.js-F9FAFB?style=for-the-badge&logo=nextdotjs&logoColor=F9FAFB&labelColor=111827" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Vercel-F9FAFB?style=for-the-badge&logo=vercel&logoColor=F9FAFB&labelColor=111827" alt="Vercel">
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=F9FAFB&labelColor=111827" alt="Netlify">
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=F9FAFB&labelColor=111827" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/EmailJS-F97316?style=for-the-badge" alt="EmailJS">
+  <img src="https://img.shields.io/badge/-GitHub_Pages-F9FAFB?style=for-the-badge&logo=githubpages&logoColor=F9FAFB&labelColor=111827" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=for-the-badge" alt="REST APIs">
 </p>
 
-**Tools**
+**Programming & Data Analysis**
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=8B5CF6" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6" alt="VS Code">
+  <img src="https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=F9FAFB&labelColor=111827" alt="SQL">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=F9FAFB&labelColor=111827" alt="Python">
+  <img src="https://img.shields.io/badge/-Pandas-F9FAFB?style=for-the-badge&logo=pandas&logoColor=F9FAFB&labelColor=111827" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=F9FAFB&labelColor=111827" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau">
+  <img src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=F9FAFB&labelColor=111827" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/-Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=F9FAFB&labelColor=111827" alt="Metabase">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
+</p>
+
+**SEO & Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/-Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=F9FAFB&labelColor=111827" alt="Google Analytics 4">
+  <img src="https://img.shields.io/badge/-Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=F9FAFB&labelColor=111827" alt="Google Search Console">
+  <img src="https://img.shields.io/badge/Sitemap%2FRobots.txt-0891B2?style=for-the-badge" alt="Sitemap/Robots.txt">
+  <img src="https://img.shields.io/badge/Bing_Webmaster_Tools-0078D4?style=for-the-badge" alt="Bing Webmaster Tools">
+</p>
+
+**Scripting & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/-Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=F9FAFB&labelColor=111827" alt="Python Scripting">
+  <img src="https://img.shields.io/badge/Workflow_Automation-8B5CF6?style=for-the-badge" alt="Workflow Automation">
+  <img src="https://img.shields.io/badge/Data_Pipeline_Building-0891B2?style=for-the-badge" alt="Data Pipeline Building">
+</p>
+
+**Operations & Monitoring**
+
+<p>
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge" alt="ServiceNow">
+  <img src="https://img.shields.io/badge/AppDynamics-0086E5?style=for-the-badge" alt="AppDynamics">
+  <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=F9FAFB&labelColor=111827" alt="Dynatrace">
+  <img src="https://img.shields.io/badge/Incident_Management-8B5CF6?style=for-the-badge" alt="Incident Management">
+  <img src="https://img.shields.io/badge/SLA_Tracking-0891B2?style=for-the-badge" alt="SLA Tracking">
+  <img src="https://img.shields.io/badge/-GitHub-F9FAFB?style=for-the-badge&logo=github&logoColor=181717&labelColor=111827" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=F9FAFB&labelColor=111827" alt="Linux">
 </p>
 
 ---
