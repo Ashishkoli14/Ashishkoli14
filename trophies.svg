@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="GitHub trophies">
+<title>Trophies</title>
+<defs><linearGradient id="pc" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="shineG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<filter id="burst" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="8"/></filter>
+<clipPath id="tClip"><rect width="900" height="180" rx="12"/></clipPath>
+<clipPath id="cellClip0"><rect x="28.0" y="22" width="156" height="136" rx="10"/></clipPath>
+<clipPath id="cellClip1"><rect x="200.0" y="22" width="156" height="136" rx="10"/></clipPath>
+<clipPath id="cellClip2"><rect x="372.0" y="22" width="156" height="136" rx="10"/></clipPath>
+<clipPath id="cellClip3"><rect x="544.0" y="22" width="156" height="136" rx="10"/></clipPath>
+<clipPath id="cellClip4"><rect x="716.0" y="22" width="156" height="136" rx="10"/></clipPath></defs>
+<g clip-path="url(#tClip)">
+<rect width="900" height="180" fill="#111827"/>
+<rect x="0.5" y="0.5" width="899" height="179" rx="12" fill="none" stroke="#374151" stroke-width="1"/>
+<g opacity="0" transform="translate(106.0,90.0)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.10s" fill="freeze"/><animateTransform attributeName="transform" type="scale" additive="sum" values="0;1" dur="0.6s" begin="0.10s" calcMode="spline" keySplines="0.34 1.56 0.64 1" fill="freeze"/><g transform="translate(-106.0,-90.0)">
+<rect x="28.0" y="22" width="156" height="136" rx="10" fill="#8B5CF6" opacity="0" filter="url(#burst)"><animate attributeName="opacity" values="0;0.6;0" dur="0.6s" begin="0.25s" fill="freeze"/></rect>
+<rect x="28.0" y="22" width="156" height="136" rx="10" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+<text x="106.0" y="74" text-anchor="middle" font-size="30" fill="#8B5CF6">&#127942;</text>
+<text x="106.0" y="104" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#F9FAFB">Rookie Coder</text>
+<rect x="76.2" y="116" width="59.6" height="20" rx="10" fill="url(#pc)"/>
+<text x="106.0" y="130" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0B1020">Bronze</text>
+<g clip-path="url(#cellClip0)"><rect x="-42.0" y="2" width="46" height="176" fill="url(#shineG)" opacity="0.15" transform="skewX(-18)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;286 0" dur="0.9s" begin="0.45s" fill="freeze"/></rect></g>
+</g></g>
+<g opacity="0" transform="translate(278.0,90.0)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="scale" additive="sum" values="0;1" dur="0.6s" begin="0.25s" calcMode="spline" keySplines="0.34 1.56 0.64 1" fill="freeze"/><g transform="translate(-278.0,-90.0)">
+<rect x="200.0" y="22" width="156" height="136" rx="10" fill="#8B5CF6" opacity="0" filter="url(#burst)"><animate attributeName="opacity" values="0;0.6;0" dur="0.6s" begin="0.40s" fill="freeze"/></rect>
+<rect x="200.0" y="22" width="156" height="136" rx="10" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+<text x="278.0" y="74" text-anchor="middle" font-size="30" fill="#8B5CF6">&#127942;</text>
+<text x="278.0" y="104" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#F9FAFB">Consistent Hacker</text>
+<rect x="248.2" y="116" width="59.6" height="20" rx="10" fill="url(#pc)"/>
+<text x="278.0" y="130" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0B1020">Silver</text>
+<g clip-path="url(#cellClip1)"><rect x="130.0" y="2" width="46" height="176" fill="url(#shineG)" opacity="0.15" transform="skewX(-18)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;286 0" dur="0.9s" begin="0.60s" fill="freeze"/></rect></g>
+</g></g>
+<g opacity="0" transform="translate(450.0,90.0)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.40s" fill="freeze"/><animateTransform attributeName="transform" type="scale" additive="sum" values="0;1" dur="0.6s" begin="0.40s" calcMode="spline" keySplines="0.34 1.56 0.64 1" fill="freeze"/><g transform="translate(-450.0,-90.0)">
+<rect x="372.0" y="22" width="156" height="136" rx="10" fill="#8B5CF6" opacity="0" filter="url(#burst)"><animate attributeName="opacity" values="0;0.6;0" dur="0.6s" begin="0.55s" fill="freeze"/></rect>
+<rect x="372.0" y="22" width="156" height="136" rx="10" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+<text x="450.0" y="74" text-anchor="middle" font-size="30" fill="#8B5CF6">&#127942;</text>
+<text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#F9FAFB">Pull Shark</text>
+<rect x="426.8" y="116" width="46.4" height="20" rx="10" fill="url(#pc)"/>
+<text x="450.0" y="130" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0B1020">Gold</text>
+<g clip-path="url(#cellClip2)"><rect x="302.0" y="2" width="46" height="176" fill="url(#shineG)" opacity="0.15" transform="skewX(-18)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;286 0" dur="0.9s" begin="0.75s" fill="freeze"/></rect></g>
+</g></g>
+<g opacity="0" transform="translate(622.0,90.0)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.55s" fill="freeze"/><animateTransform attributeName="transform" type="scale" additive="sum" values="0;1" dur="0.6s" begin="0.55s" calcMode="spline" keySplines="0.34 1.56 0.64 1" fill="freeze"/><g transform="translate(-622.0,-90.0)">
+<rect x="544.0" y="22" width="156" height="136" rx="10" fill="#8B5CF6" opacity="0" filter="url(#burst)"><animate attributeName="opacity" values="0;0.6;0" dur="0.6s" begin="0.70s" fill="freeze"/></rect>
+<rect x="544.0" y="22" width="156" height="136" rx="10" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+<text x="622.0" y="74" text-anchor="middle" font-size="30" fill="#8B5CF6">&#127942;</text>
+<text x="622.0" y="104" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#F9FAFB">Rising Star</text>
+<rect x="585.6" y="116" width="72.8" height="20" rx="10" fill="url(#pc)"/>
+<text x="622.0" y="130" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0B1020">Platinum</text>
+<g clip-path="url(#cellClip3)"><rect x="474.0" y="2" width="46" height="176" fill="url(#shineG)" opacity="0.15" transform="skewX(-18)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;286 0" dur="0.9s" begin="0.90s" fill="freeze"/></rect></g>
+</g></g>
+<g opacity="0" transform="translate(794.0,90.0)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.70s" fill="freeze"/><animateTransform attributeName="transform" type="scale" additive="sum" values="0;1" dur="0.6s" begin="0.70s" calcMode="spline" keySplines="0.34 1.56 0.64 1" fill="freeze"/><g transform="translate(-794.0,-90.0)">
+<rect x="716.0" y="22" width="156" height="136" rx="10" fill="#8B5CF6" opacity="0" filter="url(#burst)"><animate attributeName="opacity" values="0;0.6;0" dur="0.6s" begin="0.85s" fill="freeze"/></rect>
+<rect x="716.0" y="22" width="156" height="136" rx="10" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+<text x="794.0" y="74" text-anchor="middle" font-size="30" fill="#8B5CF6">&#127942;</text>
+<text x="794.0" y="104" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#F9FAFB">Code Wizard</text>
+<rect x="760.9" y="116" width="66.2" height="20" rx="10" fill="url(#pc)"/>
+<text x="794.0" y="130" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0B1020">Diamond</text>
+<g clip-path="url(#cellClip4)"><rect x="646.0" y="2" width="46" height="176" fill="url(#shineG)" opacity="0.15" transform="skewX(-18)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;286 0" dur="0.9s" begin="1.05s" fill="freeze"/></rect></g>
+</g></g>
+</g>
+</svg>
