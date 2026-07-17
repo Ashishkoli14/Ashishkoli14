@@ -44,27 +44,27 @@ My goal: transition into a **Data Analyst / Business Analyst** role where I can 
 **Data & Analysis**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python">
+  <img src="https://img.shields.io/badge/Power_BI-1F2937?style=for-the-badge&logo=powerbi&logoColor=8B5CF6" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=22D3EE" alt="Tableau">
 </p>
 
 **Web Development**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=8B5CF6" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=8B5CF6" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React">
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=8B5CF6" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6" alt="VS Code">
 </p>
 
 ---
@@ -102,8 +102,8 @@ My goal: transition into a **Data Analyst / Business Analyst** role where I can 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashishkoli14/Ashishkoli14/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Ashishkoli14/Ashishkoli14/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashishkoli14/Ashishkoli14/output/github-contribution-grid-snake-dark.svg?v=20260717">
+    <img src="https://raw.githubusercontent.com/Ashishkoli14/Ashishkoli14/output/github-contribution-grid-snake.svg?v=20260717" alt="Snake animation eating my contribution graph">
   </picture>
 </div>
 
@@ -113,16 +113,15 @@ My goal: transition into a **Data Analyst / Business Analyst** role where I can 
 
 <div align="center">
   <a href="https://linkedin.com/in/ashishmanojkoli">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=111827" alt="LinkedIn">
   </a>
   <a href="mailto:currikit.edu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=111827" alt="Email">
   </a>
   <a href="https://instagram.com/Currikit">
-    <img src="https://img.shields.io/badge/@Currikit-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/@Currikit-1F2937?style=for-the-badge&logo=instagram&logoColor=8B5CF6&labelColor=111827" alt="Instagram">
   </a>
 </div>
-
 <div align="center">
   <br/>
   <sub>⚡ Built with passion · Data · Code · Design · Currikit</sub>
